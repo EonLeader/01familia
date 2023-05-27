@@ -25,7 +25,7 @@ dataSet[dataSetVersion].characterData = [
       series: ["BB"]
     }
   },{
-    name: "Usa Hiiragi",
+    name: "Usa",
     img: "5sd24YV.png",
     opts: {
       series: ["BB"]
