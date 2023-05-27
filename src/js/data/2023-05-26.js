@@ -312,7 +312,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Lix Nanase",
+    name: "Liz Nanase",
     img: "iRi1WJb.png",
     opts: {
       series: ["01"]
