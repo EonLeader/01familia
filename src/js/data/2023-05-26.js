@@ -340,7 +340,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Ralumu Furukawa",
+    name: "Ralumu Fujikawa",
     img: "zWFw29F.png",
     opts: {
       series: ["01"]
