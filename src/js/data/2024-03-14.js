@@ -1,4 +1,4 @@
-dataSetVersion = "2023-05-26"; // Change this when creating a new data set version. YYYY-MM-DD format.
+dataSetVersion = "2024-03-14"; // Change this when creating a new data set version. YYYY-MM-DD format.
 dataSet[dataSetVersion] = {};
 
 dataSet[dataSetVersion].options = [
@@ -9,23 +9,17 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
 	  { name: "#Babababambi", tooltip: "#Babababambi", key: "BB" },
-	  { name: "#2i2", tooltip: "##2i2", key: "22" },
-	  { name: "#Yoyoyo", tooltip: "##YOYOYO", key: "YY" },
-	  { name: "#Mooove!", tooltip: "##MOOOVE!", key: "OO" },	  
-	  { name: "01familia", tooltip: "01FAMILIA", key: "01" },
+	  { name: "#2i2", tooltip: "#2i2", key: "22" },
+	  { name: "#Yoyoyo", tooltip: "#Yoyoyo", key: "YY" },
+	  { name: "#Mooove!", tooltip: "#Mooove!", key: "OO" },	  
+	  { name: "01familia", tooltip: "01familia", key: "01" },
     ]
   }
 ];
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Meruda Ikeda",
-    img: "ho1HsdR.png",
-    opts: {
-      series: ["BB"]
-    }
-  },{
-    name: "Usa Hiiragi",
+    name: "Usa",
     img: "5sd24YV.png",
     opts: {
       series: ["BB"]
@@ -59,14 +53,7 @@ dataSet[dataSetVersion].characterData = [
       series: ["BB"]
     }
   },
-  {
-    name: "Akane Yoshizawa",
-    img: "hbUN1Dx.png",
-    opts: {
-      series: ["BB"]
-    }
-  },
-  {
+    {
     name: "Toomi",
     img: "tCshulH.png",
     opts: {
@@ -122,14 +109,7 @@ dataSet[dataSetVersion].characterData = [
       series: ["YY"]
     }
   },
-  {
-    name: "Sakura Asaoka",
-    img: "TlrCN0H.png",
-    opts: {
-      series: ["YY"]
-    }
-  },
-  {
+    {
     name: "Nagisa Tsuki",
     img: "1DuU4LR.png",
     opts: {
@@ -168,7 +148,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Hikaru Aoyama",
     img: "NF3RkRd.png",
     opts: {
-      series: ["02"]
+      series: ["01"]
     }
   },
   {
@@ -206,35 +186,14 @@ dataSet[dataSetVersion].characterData = [
       series: ["01"]
     }
   },
-  {
-    name: "Ami Iseki",
-    img: "hfSotXv.png",
-    opts: {
-      series: ["01"]
-    }
-  },
-  {
-    name: "Riko Imai",
-    img: "AXfG8Kc.png",
-    opts: {
-      series: ["01"]
-    }
-  },
-  {
+     {
     name: "Yuki Odera",
     img: "yyujL7H.png",
     opts: {
       series: ["01"]
     }
   },
-  {
-    name: "Miyu Kataoka",
-    img: "XT9bHIZ.png",
-    opts: {
-      series: ["01"]
-    }
-  },
-  {
+    {
     name: "Yui Kato",
     img: "STcsA14.png",
     opts: {
@@ -283,14 +242,7 @@ dataSet[dataSetVersion].characterData = [
       series: ["01"]
     }
   },
-  {
-    name: "Saeka Takayama",
-    img: "oQ31xfX.png",
-    opts: {
-      series: ["01"]
-    }
-  },
-  {
+    {
     name: "Seina Takeuchi",
     img: "2I9ykQQ.png",
     opts: {
@@ -318,14 +270,7 @@ dataSet[dataSetVersion].characterData = [
       series: ["01"]
     }
   },
-  {
-    name: "Rea Hanasaki",
-    img: "yeTEIof.png",
-    opts: {
-      series: ["01"]
-    }
-  },
-  {
+    {
     name: "Yume Hayashi",
     img: "hb676kC.png",
     opts: {
@@ -335,13 +280,6 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Risa Haruka",
     img: "GyKKm2K.png",
-    opts: {
-      series: ["01"]
-    }
-  },
-  {
-    name: "Ralumu Furukawa",
-    img: "zWFw29F.png",
     opts: {
       series: ["01"]
     }
@@ -360,14 +298,7 @@ dataSet[dataSetVersion].characterData = [
       series: ["01"]
     }
   },
-  {
-    name: "Rie Momose",
-    img: "HB14M0m.png",
-    opts: {
-      series: ["01"]
-    }
-  },
-  {
+    {
     name: "Kaho Mori",
     img: "iv8Y9Z0.png",
     opts: {
@@ -391,6 +322,76 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Yurika Wagatsuma",
     img: "mUY1rRp.png",
+    opts: {
+      series: ["01"]
+    }
+  },
+  {
+    name: "Coco Airi",
+    img: "7J3Vzmc.png",
+    opts: {
+      series: ["OO"]
+    }
+  },
+  {
+    name: "Kohina Ichinose",
+    img: "xh7GyiX.png",
+    opts: {
+      series: ["BB"]
+    }
+  },
+  {
+    name: "Kahorun",
+    img: "Zc8YilE.png",
+    opts: {
+      series: ["01"]
+    }
+  },
+  {
+    name: "Rina Kannami",
+    img: "4vXXGAq.png",
+    opts: {
+      series: ["BB"]
+    }
+  },
+  {
+    name: "Naho Kuki",
+    img: "WDLD8Vk.png",
+    opts: {
+      series: ["OO"]
+    }
+  },
+  {
+    name: "Momo Suzu",
+    img: "E76Dd85.png",
+    opts: {
+      series: ["01"]
+    }
+  },
+  {
+    name: "Miyabi Nagano",
+    img: "5cLorhz.png",
+    opts: {
+      series: ["01"]
+    }
+  },
+  {
+    name: "Mashi Masyuron",
+    img: "bNAuyO2.png",
+    opts: {
+      series: ["01"]
+    }
+  },
+  {
+    name: "Maho Chise",
+    img: "763qivy.png",
+    opts: {
+      series: ["BB"]
+    }
+	},
+  {
+    name: "Mayuka Rami",
+    img: "RB0KeUJ.png",
     opts: {
       series: ["01"]
     }
