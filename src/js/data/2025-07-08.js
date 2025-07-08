@@ -306,7 +306,7 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Izawa Takane",
+    name: "Izana Takane",
     img: "qHY1UqT.png",
     opts: {
       series: ["01"]
