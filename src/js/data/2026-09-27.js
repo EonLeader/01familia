@@ -392,7 +392,7 @@ dataSet[dataSetVersion].characterData = [
   },  
   {
     name: "Sena Kiritani",
-    img: "j9S85ff.jpg",
+    img: "pYQWTuI.jpg",
     opts: {
       series: ["SP"]
     }
